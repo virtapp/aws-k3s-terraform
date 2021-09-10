@@ -1,0 +1,5 @@
+bucket = "atoy3731-k3s-state-bucket"
+key = "states/terraform.tfstate"
+region = "us-east-1"
+dynamodb_table = ""
+workspace_key_prefix = "env"
